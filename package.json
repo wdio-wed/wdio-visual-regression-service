@@ -1,0 +1,19 @@
+{
+  "name": "wdio-visual-regression-service-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "wdio-mocha-framework": "^0.5.8",
+    "wdio-selenium-standalone-service": "0.0.8",
+    "wdio-spec-reporter": "0.0.5",
+    "wdio-visual-regression-service": "^0.7.0"
+  }
+}
